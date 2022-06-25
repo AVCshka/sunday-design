@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8be0f1fd-6c45-4a32-9b0a-b7d25928aab1" name="Changes" comment="Created project">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="8be0f1fd-6c45-4a32-9b0a-b7d25928aab1" name="Changes" comment="Created project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656093484660</updated>
       <workItem from="1656093485972" duration="1419000" />
-      <workItem from="1656151480367" duration="11774000" />
+      <workItem from="1656151480367" duration="12352000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <created>1656093561453</created>
@@ -65,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656151714581</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created project">
+      <created>1656189532996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656189532996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
